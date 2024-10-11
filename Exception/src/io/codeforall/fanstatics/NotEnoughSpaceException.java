@@ -1,0 +1,11 @@
+package io.codeforall.fanstatics;
+
+public class NotEnoughSpaceException extends FileException {
+
+
+    public NotEnoughSpaceException(String s) {
+        super(s);
+    }
+
+
+}

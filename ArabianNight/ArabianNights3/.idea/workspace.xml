@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23ec974a-12b9-46a8-be2a-5036c1f96ea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ArabianNights2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarCrash/car-crash-skeleton/car-crash-skeleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarCrash/car-crash-skeleton2/car-crash-skeleton2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarCrash/car-crash-skeleton3/car-crash-skeleton3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarCrash/car-crash-skeleton4/car-crash-skeleton4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guess Number Game/guessnumber3/guessnumber3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste_Only/Teste_Only.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNight/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArabianNight/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArabianNight/ArabianNight/src/io/codeforall/bootcamp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArabianNight/ArabianNight/src/io/codeforall/bootcamp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/PlayGround.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/PlayGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/out/production/GuessNumber_Pedro/GuessNumber/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/src/GuessNumber/PlayGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guess Number Game/GuessNumber_Pedro/src/GuessNumber/PlayGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/Hotel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/out/production/Hotel/io/codeforall/bootcamp/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/out/production/Hotel/io/codeforall/bootcamp/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/out/production/Hotel/io/codeforall/bootcamp/Playground.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/out/production/Hotel/io/codeforall/bootcamp/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/src/io/codeforall/bootcamp/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/src/io/codeforall/bootcamp/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/src/io/codeforall/bootcamp/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/Hotel/src/io/codeforall/bootcamp/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/io/codeforall/bootcamp/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/io/codeforall/bootcamp/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/io/codeforall/bootcamp/Playground.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel/out/production/Hotel/io/codeforall/bootcamp/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/MoneyInTheBank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/out/production/MoneyInTheBank/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/out/production/MoneyInTheBank/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/out/production/MoneyInTheBank/Playground.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/src/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/MoneyInTheBank/src/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/out/production/MoneyInTheBank/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/out/production/MoneyInTheBank/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoneyInTheBank/out/production/MoneyInTheBank/Playground.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/HandType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/HandType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/Playground.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/out/production/Rock_Paper_Scissor/io/codeforall/bootcamp/Playground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/src/io/codeforall/bootcamp/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/Rock_Paper_Scissor/src/io/codeforall/bootcamp/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/src/RockPaperScissor/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/src/RockPaperScissor/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/src/RockPaperScissor/PlayGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/src/RockPaperScissor/PlayGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/src/RockPaperScissor/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rock Paper Scissor Game/TestRockPaperScissor/src/RockPaperScissor/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/test_Rock-Paper-Scissors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/test_Rock-Paper-Scissors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/test_Rock-Paper-Scissors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/test_Rock-Paper-Scissors/src/HandType1/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/test_Rock-Paper-Scissors/src/HandType1/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rock Paper Scissor Game/test_Rock-Paper-Scissors/test_Rock-Paper-Scissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/libraries/lanterna_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/car-crash-skeleton.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/lib/lanterna-2.1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/cars/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/cars/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/cars/Fiat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/cars/Mustang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/field/Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/out/production/car-crash-skeleton/io/codeforall/bootcamp/field/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Fiat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Mustang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/field/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/field/Position.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2myPLJjjN3VzLkjaZmrDNFpT3YS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Playground.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/asus/Documents/my-exercises/ArabianNight",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23ec974a-12b9-46a8-be2a-5036c1f96ea1" name="Changes" comment="" />
+      <created>1728045787461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728045787461</updated>
+    </task>
+    <servers />
+  </component>
+</project>
