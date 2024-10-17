@@ -1,8 +1,8 @@
-package io.codeforall.bootcamp.grid.position;
+package io.codeforall.fanstatics.grid.position;
 
-import io.codeforall.bootcamp.grid.Grid;
-import io.codeforall.bootcamp.grid.GridColor;
-import io.codeforall.bootcamp.grid.GridDirection;
+import io.codeforall.fanstatics.grid.Grid;
+import io.codeforall.fanstatics.grid.GridColor;
+import io.codeforall.fanstatics.grid.GridDirection;
 
 /**
  * Base skeleton for a grid position
@@ -27,7 +27,7 @@ public abstract class AbstractGridPosition implements GridPosition {
         this.col = col;
         this.row = row;
         this.grid = grid;
-        this.color = GridC§olor.NOCOLOR;
+        this.color = GridColor.NOCOLOR;
     }
 
     public Grid getGrid() {
@@ -37,12 +37,12 @@ public abstract class AbstractGridPosition implements GridPosition {
     /**
      * @see GridPosition#setPos(int, int)
      */
-        @Override
-        public void setPos(int col, int row) {
-            this.col = col;
-            this.row = row;
-            show();
-        }
+    @Override
+    public void setPos(int col, int row) {
+        this.col = col;
+        this.row = row;
+        show();
+    }
 
     /**
      * @see GridPosition#getCol()
