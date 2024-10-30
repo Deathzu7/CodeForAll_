@@ -1,7 +1,4 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
+import java.io.*;
 import java.net.Socket;
 import java.util.ArrayList;
 
@@ -10,13 +7,21 @@ public class Client implements Runnable {
     private final Socket clientSocket;
     private String userName;
     private final ArrayList<Client> clients;
-    private PrintWriter out;
-
+    PrintWriter out;
+    BufferedReader in;
 
     public Client(Socket clientSocket, ArrayList<Client> clients) {
 
         this.clientSocket = clientSocket;
         this.clients = clients;
+
+        try {
+            // Inicializa o PrintWriter no construtor
+            this.out = new PrintWriter(clientSocket.getOutputStream(), true);
+        } catch (IOException e) {
+            System.out.println("Error initializing output stream for client: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 
 
@@ -30,17 +35,22 @@ public class Client implements Runnable {
             this.userName = in.readLine();
             System.out.println("User connected: " + userName);
 
+
+            // estou a adicionar e sincronizar a minha lista de clientes§
             synchronized (clients) {
                 clients.add(this);
             }
 
+
+            
             String input;
 
             while ((input = in.readLine()) != null) {
-                if (input.equalsIgnoreCase("bye")) {
-                    System.out.println("Client disconnected " + userName);
-                    break;
-                }
+                    if (input.equalsIgnoreCase("bye")) {
+                        System.out.println("Client disconnected " + userName);
+                        break;
+                    }
+                
                 System.out.println(userName + ": " + input);
 
                 // Verifica se o comando é /broadcast
@@ -52,7 +62,6 @@ public class Client implements Runnable {
             }
 
             in.close();
-            out.close();
             clientSocket.close();
 
             synchronized (clients) {
@@ -71,15 +80,18 @@ public class Client implements Runnable {
     private void broadcastMessage(String message) {
         synchronized (clients) {
             for (Client client : clients) {
-                client.sendMessage(message);
+                if (client != this && client.out != null) { // Evita enviar a mensagem para o próprio remetente e verifica se out não é nulo
+                    client.sendMessage(message);
+                }
             }
         }
     }
 
     //Envia uma mensagem para este cliente em especifico.
     public void sendMessage(String message) {
-        out.println(message);
+        if (out != null) {
+            out.println(message);
+        }
     }
-
 
 }
