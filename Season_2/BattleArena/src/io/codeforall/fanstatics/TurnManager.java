@@ -31,8 +31,9 @@ public class TurnManager {
                 hero.ability.reduceCooldown();
             }
         }
-        currentTurn++;
+
         System.out.println("Turn " + currentTurn + " ends.\n");
+        currentTurn++;
     }
 
     private Hero selectRandomTarget(List<Hero> heroes, Hero currentHero) {
