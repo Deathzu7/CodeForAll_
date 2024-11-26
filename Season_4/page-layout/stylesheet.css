@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+}
+#navbar ul{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    background-color: darkslategrey;
+    color: white;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+}
+
+header {
+    height: 200px;
+    background-color: cornflowerblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-content {
+    height: 2000px;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#sidebar {
+    background-color: darkslategrey;
+    color: white;
+    position: sticky; /* Sticky positioning */
+    top: 50px; /* Stick to the top of the viewport */
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 5px;
+    margin: 0px;
+    width: 80px; /* Ensures the list stays within the sidebar */
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: auto;
+
+}
+
+#sidebar li {
+    margin: 5px; /* Add spacing between items */
+    padding: 5px;
+   
+
+}
+
+footer {
+    height: 100px;
+    background-color: darkslategrey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    display: flex;
+}
+
+
+
+

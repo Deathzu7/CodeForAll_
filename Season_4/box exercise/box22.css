@@ -1,0 +1,73 @@
+/*Outer container with brown background */
+        .outer-container {
+          background-color: #D69E63; /* brown background */
+          border: #FFFFFF 60px solid;
+          padding: 20px;
+          display: flex;
+          justify-content: baseline;
+          align-items: baseline;
+          height: 160px;
+          width: 230px;
+          margin-right: auto;
+        }
+        /* Inner container with green background and black border */
+        .inner-container {
+          background-color: #357A38; /* green background */
+          border:5px solid black;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 200px;
+          height:150px;
+        }
+        /* Content box */
+        .content {
+          background-color: white;
+          padding: 5px 10px;
+          font-size: 20px;
+        }
+        .side {
+            background-color: #357A38;
+            display: flex;
+            border: #FFFFFF 5px solid;
+            align-self: flex-end;
+            justify-content: center;
+            align-items: center;
+            width: 50px;
+            height: 20px;
+            padding: 5px 10px;
+            font-size: 20px;
+        }
+        .side2 {
+            background-color: #D69E63;
+            display: inline-block;
+            align-self: flex-end;
+            border: #FFFFFF 5px solid;
+            justify-content: center;
+            align-items: center;
+            width: 50px;
+            height: 20px;
+            padding: 5px 10px;
+            font-size: 20px;
+        }
+        .side3 {
+            background-color: #FFFFFF;
+            border: 4px solid black;
+            display: inline-block;
+            align-self: flex-end;
+            justify-content: center;
+            align-items: center;
+            width: 50px;
+            height: 20px;
+            padding: 5px 10px;
+            font-size: 20px;
+        }
+        .outer {
+            background-color: #FFFFFF;
+            padding: 20px;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+            width: 500px;
+          }
